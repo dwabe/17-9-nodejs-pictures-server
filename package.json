@@ -20,6 +20,7 @@
   "homepage": "https://github.com/dwabe/17-9-nodejs-pictures-server#readme",
   "dependencies": {
     "colors": "^1.3.3",
-    "formidable": "^1.2.1"
+    "formidable": "^1.2.1",
+    "fs": "0.0.1-security"
   }
 }
